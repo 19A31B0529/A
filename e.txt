@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 E hii
+=======
+E modify
+>>>>>>> first
